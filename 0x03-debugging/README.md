@@ -1,1 +1,1 @@
-debugging
+This directory contains solutions to debugging tasks in C programming language. Tasks involve identifying and fixing errors in given code.
