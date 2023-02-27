@@ -1,0 +1,1 @@
+The basics of pointers and arrays in C are fundamental concepts that are crucial to understanding how the language works. Pointers are variables that store the memory address of another variable, while arrays are collections of variables that are accessed using an index. Understanding how to manipulate pointers and arrays is important for writing efficient and effective C code.
